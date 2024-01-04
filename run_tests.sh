@@ -42,6 +42,7 @@ BASE_TESTS="
   RamseteController
   Relay
   ShuffleBoard
+  SimpleDifferentialDriveSimulation
   Solenoid
   StatefulAutonomous
   StateSpaceFlywheel
